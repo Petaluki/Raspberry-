@@ -1,0 +1,12 @@
+Demo 1
+
+Raspi asennettu 5p
+Git-Repo perustetty 2p
+Etäkäyttö 3p
+
+Pi:n ip ---> 192.168.43.90
+
+Etäyhteyskomennot:
+
+sudo ifconfig
+vncserver
