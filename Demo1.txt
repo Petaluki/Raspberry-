@@ -1,12 +1,12 @@
 Demo 1
 
 Raspi asennettu 5p
-Git-Repo perustetty 2p
-Et‰k‰yttˆ 3p
+Git-Repo perustettu 2p
+Et√§k√§ytt√∂ 3p
 
 Pi:n ip ---> 192.168.43.90
 
-Et‰yhteyskomennot:
+Et√§yhteyskomennot:
 
 sudo ifconfig
 vncserver
