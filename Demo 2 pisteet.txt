@@ -1,0 +1,29 @@
+Tehtävä 2.1 Ledi vilkkuu
+
+-Tehty ohjauksessa 1p
+
+2.2 lue painiketta ja luukkeentunnistinta
+
+-Tehty ohjauksessa 2p
+
+2.3 Liikennevalot
+
+ -Tehty, samoja valoja käytetty 2.5:ssä joka näkyy videolla.
+ -Liitännät oikein
+ -Koodi on toimiva. Ei välttämättä optimaalinen
+ 
+ 4p
+
+2.4 Merkkivalo jalankulkijoille napin painalluksesta
+ -Merkkivalo syttyy
+ -Painikkeen alasvetovastus kytkennöillä.... Tuskin löytyy.
+ -Merkkivalo 2.5:n videolla.
+ 
+ 1p
+
+2.5 Liikennevalot liikennetunnistin 
+
+Tehty, kuva repossa, linkki youtube videoon repossa. 1p
+
+
+Yht 8p
