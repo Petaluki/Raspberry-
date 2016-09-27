@@ -8,9 +8,16 @@ GPIO.setmode (GPIO.BCM)
 GPIO.setup (LED, GPIO.OUT)
 GPIO.setup (PAINIKE, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
-loppu = time.time() + 10
-while time.time() < loppu:
-	GPIO.output(LED, GPIO.input (PAINIKE)
-	time.sleep (0.1)
+lopetus = time.time()+10
+while time.time()<lopetus:
+   painettu = GPIO.input(NAPPI)
+      
+   if painettu == False:
+      GPIO.output(LED, True)
+      time.sleep(0.1)
+      
+   if painettu == True:
+      GPIO.output(LED, False)
+      time.sleep(0.1)
 
 GPIO.cleanup ()
