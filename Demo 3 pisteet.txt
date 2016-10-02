@@ -1,0 +1,13 @@
+3.1
+Sensori toimii (Data menee sheetsiin ja näkyy ruudussa) 1p
+3.2
+Tavara menee sheetsiin, AES löytyy, JSON on raspilla. 3p
+3.4
+Kuva ja video repossa 1p
+3.5
+Liikkeentunnistava kamera toimii. Koodi repossa. 2p
+3.6
+Kamera ottaa kuvan tasatunnein. Uudelleenkäynnistys ei haittaa.
+Cronilla ajastettu. Scripti ja kuva Cron ajastuksesta repossa. 2p
+
+Yht: 9p
