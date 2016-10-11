@@ -1,0 +1,21 @@
+Tehtävä 4.1: Motion asennettu ja se tallentaa kuvat ja lokin eri tiedostoon kuin oletustiedosto.
+Palauta config-tiedoston muutokset 1p
+-Confi palautettu
+
+Tehtävä 4.2: Motion tallentaa 2 kuvaa ennen liikettä ja viiden sekunnin ajan liikkeen jälkeen. Palauta config-tiedoston muutokset 1p
+-Confi palautettu
+
+Tehtävä 4.3: Kun Motion havaitsee liikettä, kuvataan tasan 10 sekunnin ajalta video.
+Riippumatta siitä, jatkuuko liike vai ei, tiedostoon pitää tulla 10 sekunnin video liikkeen alkamisesta/havaitsemisesta. Palauta config-tiedoston muutokset 1p
+-Confi palautettu
+
+Tehtävä 4.5: OpenCV asennettu onnistuneesti 2p
+-Screenshot todiste (Asennus.png)
+
+Tehtävä 4.6: Tee kahden kuvan piirteiden vertailu. Käytä ORB-tunnistinta. Palauta koodit, käytetyt kuvat ja piirteitä vertaileva kuva 1p
+-Koodi palautettu (Vertailu.py) Käytetut kuvat kimivettel.png, vettel.png tulos kuvassa Vertailu.png
+
+Tehtävä 4.7: Hanki kuva, jossa on kasvot. Löydä kasvot Haar-Cascadella. Python/samples-kansiosta löytyy valmiiksi ‘koulutettu’ tunnistin. Palauta koodit, käytetty kuva ja kuva, johon on kasvot on merkitty 1p
+-Alkuperäinen kuva kimi.jpeg, kasvot tunnistettu kuvassa Kimin_Naama.png
+
+Yht 7p
