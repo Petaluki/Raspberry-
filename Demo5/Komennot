@@ -1,0 +1,5 @@
+//Compileri komento
+gcc -o valot valot.c -l wiringPi
+
+//Ohjelman käynnistys
+sudo ./valot
