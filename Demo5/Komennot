@@ -3,3 +3,8 @@ gcc -o valot valot.c -l wiringPi
 
 //Ohjelman käynnistys
 sudo ./valot
+
+5.1 Komennot
+
+gcc -o 5.1 5.1.c -l wiringPi
+sudo ./5.1
